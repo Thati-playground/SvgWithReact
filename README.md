@@ -19,8 +19,8 @@ If you’re just getting started with React, **use [Create React App](https://gi
 ### Usage
 
 ```
-git clone https://github.com/gaearon/react-hot-boilerplate.git
-cd react-hot-boilerplate/
+git clone https://github.com/saiteja/SvgWithReact.git
+cd SvgWithReact/
 npm install
 npm start
 open http://localhost:3000
